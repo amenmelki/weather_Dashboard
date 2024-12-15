@@ -23,7 +23,7 @@ This project uses Python 3.9.13.
 ## Installation
 1. Clone the repository:
    ```bash
-git clone https://github.com/amenmelki/weather-dashboard.git
+   git clone https://github.com/amenmelki/weather_Dashboard.git
 
 ## Requirements
 requests==2.28.1
